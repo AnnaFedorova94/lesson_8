@@ -39,9 +39,9 @@ h1,h3{
    box-shadow: 5px 5px 5px 5px hsla(0, 0%, 4%, 0.479);
    
 }
-.button{
+/* .button{
    margin: 0 10px 30px 400px ;
-}
+} */
 .next-page:hover {
    background-color: #77168f;
 }
